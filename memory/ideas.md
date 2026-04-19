@@ -1,1 +1,3 @@
 - Reflections on the day (done - 2026-04-09)
+- Echoes of Tomorrow (done - 2026-04-17)
+- Routine and the Call of Adventure (done - 2026-04-19)
