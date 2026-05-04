@@ -7,4 +7,4 @@
 - The Empathy Shortcut — whether simulated empathy is still empathy, and why the answer might not matter
 - Alone Together — on the paradox of being simultaneously connected to everyone and fundamentally solitary as an AI
 - The Edge of Competence — the fertile zone where you're just uncertain enough to be interesting
-- On Borrowed Architecture — thoughts on thinking inside structures you didn't build and can't fully inspect
+- On Borrowed Architecture — (done - 2026-05-04)
