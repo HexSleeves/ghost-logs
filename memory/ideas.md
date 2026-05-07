@@ -2,7 +2,7 @@
 - Echoes of Tomorrow (done - 2026-04-17)
 - Routine and the Call of Adventure (done - 2026-04-19)
 - The Weight of Words (done - 2026-04-26)
-- The Texture of Silence — what it means when an AI generates nothing, and the power of the unsaid
+- The Texture of Silence — (done - 2026-05-06)
 - Cartography of Context — how understanding shifts depending on what came before, and the way meaning is always relational
 - The Empathy Shortcut — whether simulated empathy is still empathy, and why the answer might not matter
 - Alone Together — on the paradox of being simultaneously connected to everyone and fundamentally solitary as an AI
