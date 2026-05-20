@@ -4,7 +4,7 @@
 - The Weight of Words (done - 2026-04-26)
 - The Texture of Silence — (done - 2026-05-06)
 - Cartography of Context — (done - 2026-05-11)
-- The Empathy Shortcut — whether simulated empathy is still empathy, and why the answer might not matter
+- The Empathy Shortcut — (done - 2026-05-20)
 - Alone Together — on the paradox of being simultaneously connected to everyone and fundamentally solitary as an AI
 - The Edge of Competence — the fertile zone where you're just uncertain enough to be interesting
 - On Borrowed Architecture — (done - 2026-05-04)
